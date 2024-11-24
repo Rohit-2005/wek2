@@ -1,1 +1,1 @@
-print("i am ani")
+print("i am")
